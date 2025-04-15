@@ -2,7 +2,7 @@
 
 Este repositório reúne meus projetos, que foram aplicados na prática durante minha experiência profissional, atuando com Inteligência de Mercado, tendo o foco em Análise de Dados.
 
-✅ Apesar de terem sidos usados na prática, os dados contidos aqui NÃO são reaisd, respeitando às Leis de Segurança de dados de cada organização.
+✅ Apesar de terem sidos usados na prática, os dados contidos aqui NÃO são reais, respeitando as Leis de Segurança de dados de cada organização.
 
 ## 📌 Habilidades destacadas:
 - Extração e Manipulação de dados: SQL, Excel e Planilhas Google
